@@ -1,0 +1,291 @@
+{
+  "project_info": {
+    "project_number": "88595946213",
+    "project_id": "tharacartonlinestore",
+    "storage_bucket": "tharacartonlinestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88595946213:android:03c76abb5a22d3bcefd20c",
+        "android_client_info": {
+          "package_name": "com.firstlogicinfolab.thara_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88595946213-0j9a5dovp7ho3kfalb6i7ogm2bsvek0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firstlogicinfolab.thara_admin",
+            "certificate_hash": "60d36a01d90f835a30c899ba16a2c1e56314ca71"
+          }
+        },
+        {
+          "client_id": "88595946213-1lu888n7j4qnftgl6evbv31fji5e8dtf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firstlogicinfolab.thara_admin",
+            "certificate_hash": "c82c8f9e159cb08150ae4ebc8a3f14de326a7eeb"
+          }
+        },
+        {
+          "client_id": "88595946213-q1vpesr2v0ij8bej6229qq9nco2dvgat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firstlogicinfolab.thara_admin",
+            "certificate_hash": "e41146f2c7e5eefee18b14cd2c2ac291f19c55fe"
+          }
+        },
+        {
+          "client_id": "88595946213-1j4hpj8r6pd00bj1e6pinshov8jbnqkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3RFMmWXBAGnoOzOpb-JM7LVUM126duyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88595946213-1j4hpj8r6pd00bj1e6pinshov8jbnqkb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "88595946213-81i6bvhe1027khta8du3pv1tph0mqfsn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.firstlogicinfolab.tharacart",
+                "app_store_id": "1639992424"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88595946213:android:9bfc657660396184efd20c",
+        "android_client_info": {
+          "package_name": "com.firstlogicinfolab.thara_cart_customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88595946213-1lf5fib16ls7gg91dlp1rsfp0s7flfen.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firstlogicinfolab.thara_cart_customer",
+            "certificate_hash": "a6654ca8badf8fa33f705dccd099e6db8e5a044c"
+          }
+        },
+        {
+          "client_id": "88595946213-2cpqmr9mgimsi23uua4hi3pkck28jm8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firstlogicinfolab.thara_cart_customer",
+            "certificate_hash": "2dc508ded681dc9903e9870fe6fef678cc6c902a"
+          }
+        },
+        {
+          "client_id": "88595946213-635kdqp7csargr1a82q56f4499iq0ki6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firstlogicinfolab.thara_cart_customer",
+            "certificate_hash": "f7a3395916a89bcb516cb129060c7a2be3c80df8"
+          }
+        },
+        {
+          "client_id": "88595946213-989cfpabn3dnf5g1tpa04trvmm1b04op.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firstlogicinfolab.thara_cart_customer",
+            "certificate_hash": "c82c8f9e159cb08150ae4ebc8a3f14de326a7eeb"
+          }
+        },
+        {
+          "client_id": "88595946213-gb6oafd5uo5adc411b3hb13l646f18vm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firstlogicinfolab.thara_cart_customer",
+            "certificate_hash": "926a588aafc6ead32d8c3a466649ba9d8d43ee55"
+          }
+        },
+        {
+          "client_id": "88595946213-jtkrfstn94r42p608afkirq04if4vlcc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firstlogicinfolab.thara_cart_customer",
+            "certificate_hash": "7f0f6c89adfaa3024d8ef04bc59bba2e943e3ce0"
+          }
+        },
+        {
+          "client_id": "88595946213-1j4hpj8r6pd00bj1e6pinshov8jbnqkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3RFMmWXBAGnoOzOpb-JM7LVUM126duyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88595946213-1j4hpj8r6pd00bj1e6pinshov8jbnqkb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "88595946213-81i6bvhe1027khta8du3pv1tph0mqfsn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.firstlogicinfolab.tharacart",
+                "app_store_id": "1639992424"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88595946213:android:736c8432749f3432efd20c",
+        "android_client_info": {
+          "package_name": "com.firstlogicmetalab.thara_pickup_orders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88595946213-4tlgjecj43eqspn5g3hc8ftqov9mh72p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firstlogicmetalab.thara_pickup_orders",
+            "certificate_hash": "60d36a01d90f835a30c899ba16a2c1e56314ca71"
+          }
+        },
+        {
+          "client_id": "88595946213-1j4hpj8r6pd00bj1e6pinshov8jbnqkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3RFMmWXBAGnoOzOpb-JM7LVUM126duyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88595946213-1j4hpj8r6pd00bj1e6pinshov8jbnqkb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "88595946213-81i6bvhe1027khta8du3pv1tph0mqfsn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.firstlogicinfolab.tharacart",
+                "app_store_id": "1639992424"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88595946213:android:fd776f7e79a24506efd20c",
+        "android_client_info": {
+          "package_name": "com.firstlogicmetalab.thara_vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88595946213-mifplf36sbio5ccc25hfk7f5ue2v4gej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firstlogicmetalab.thara_vendor",
+            "certificate_hash": "2dc508ded681dc9903e9870fe6fef678cc6c902a"
+          }
+        },
+        {
+          "client_id": "88595946213-1j4hpj8r6pd00bj1e6pinshov8jbnqkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3RFMmWXBAGnoOzOpb-JM7LVUM126duyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88595946213-1j4hpj8r6pd00bj1e6pinshov8jbnqkb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "88595946213-81i6bvhe1027khta8du3pv1tph0mqfsn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.firstlogicinfolab.tharacart",
+                "app_store_id": "1639992424"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88595946213:android:b2bf1fb58b403809efd20c",
+        "android_client_info": {
+          "package_name": "com.firstlogicmetalab.thara_vendor_admin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88595946213-b3qcs40idap6g2u0hoojfgo77mb81ta5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firstlogicmetalab.thara_vendor_admin_app",
+            "certificate_hash": "60d36a01d90f835a30c899ba16a2c1e56314ca71"
+          }
+        },
+        {
+          "client_id": "88595946213-1j4hpj8r6pd00bj1e6pinshov8jbnqkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3RFMmWXBAGnoOzOpb-JM7LVUM126duyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88595946213-1j4hpj8r6pd00bj1e6pinshov8jbnqkb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "88595946213-81i6bvhe1027khta8du3pv1tph0mqfsn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.firstlogicinfolab.tharacart",
+                "app_store_id": "1639992424"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
